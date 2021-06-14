@@ -2,6 +2,6 @@ Esta es la historia de Lorena Campuzano.
 
 Lorena Campuzano tiene 24 años y nació en Ciudad de México, México.
 
-Hoy hablaremos de su historia.
+Hoy hablaremos de su historia y obra maestra.
 
 En estos momentos está aprendiendo Git y Github.
